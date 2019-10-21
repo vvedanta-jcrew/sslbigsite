@@ -6,5 +6,5 @@
  0.0.0.0 my-site.com
  
 To Use:
-1. run docker-compose up with the contect from the repo.
+1. run docker-compose up with the contents from the repo.
 2. https://localhost or https://my-site.com can be accessed. 
